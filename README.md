@@ -2,8 +2,7 @@
 
 ### I'm Yüsra from Turkey. I do content on development. 
 ### I have experience in photoshop and photo editing.  
-### I currently learing Dart Language, Flutter SDK and UI-UX design. Every time I learn something new, I will share my projects here so I am open to your constructive criticism to learn more. 
-### Also you can ask me about Flutter and we can learn together. 
+### I currently learing programming and UI-UX design. 
 
 # Skills :
 ### Flutter
