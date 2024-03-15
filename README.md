@@ -1,9 +1,5 @@
 ![1ylpd3npaw60](https://user-images.githubusercontent.com/71156033/182237655-0ef2a1bb-bd27-401e-a329-c34da042c25d.gif)
 
-### I'm Yüsra from Turkey. I do content on development. 
-### I have experience in photoshop and photo editing.  
-### I currently learing programming and UI-UX design. 
-
 # Skills :
 ### Flutter
 ### Dart
