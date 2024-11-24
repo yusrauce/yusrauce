@@ -1,10 +1,12 @@
 ![1ylpd3npaw60](https://user-images.githubusercontent.com/71156033/182237655-0ef2a1bb-bd27-401e-a329-c34da042c25d.gif)
 
 # Skills :
-### Flutter
-### Dart
-### Photoshop
+### HTML-CSS
+### JavaScript
+### UX-UI
 ### Figma
+### Adobe Photoshop 2025
+
 
 
 ### Review my Behance: https://www.behance.net/ysrace
