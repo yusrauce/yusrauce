@@ -3,6 +3,8 @@
 # Skills :
 ### HTML-CSS
 ### JavaScript
+### WordPress
+### Webflow
 ### UX-UI
 ### Figma
 ### Adobe Photoshop 2025
